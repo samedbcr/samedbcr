@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samed</h1>
-<h3 align="center">A passionate iOS developer from Turkey. I've worked with Java, Angular and Ionic in the past and I'm giving my full focus/attention to native iOS development and Swift.</h3>
+<h3 align="center">A passionate iOS developer from Turkey. I've worked with Java, Angular and Ionic in the past and I'm giving my full focus/attention to native iOS development and Swift nowadays.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samedbcr&label=Profile%20views&color=0e75b6&style=flat" alt="samedbcr" /> </p>
 
