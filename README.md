@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift and UIKit**
 
-- 💬 Ask me about **flutter, java and ionic**
+- 💬 Ask me about **swift, mobile development, flutter and java**
 
 - 📫 How to reach me **samedbcrr@gmail.com**
 
